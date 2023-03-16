@@ -9,5 +9,11 @@ package Proyecto_1;
  * @author Willy MJ
  */
 public class Consecionario_Vehiculos {
+    public static void main(String[] args) { // Inicio main
+        
+        // Primer commit en Apache Netbeans
+        System.out.println("Hello Word!!");
+        
+    }// Fin main
     
 }
